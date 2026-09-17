@@ -11,4 +11,5 @@ python panen.py
 ## Fitur
 - Menghitung total hasil panen
 - Menghitung diskon
-- Menampilkan total setelah diskon# sistem-panen-nasywa
+- Menampilkan total setelah diskon# sistem-panen-selma
+- 
